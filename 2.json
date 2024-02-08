@@ -1,0 +1,12 @@
+{
+  "name": "Jupiter #2",
+  "description": "The second NFT in the Jupiter collection, featuring an enchanting underwater scene.",
+  "image": "https://raw.githubusercontent.com/0xacme/pandora/main/2.gif",
+  "external_url": "https://jupiteroff.github.io",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ]
+}
