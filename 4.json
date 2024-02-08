@@ -1,0 +1,12 @@
+{
+  "name": "Jupiter #4",
+  "description": "The fourth NFT in the Jupiter collection, showcasing a dynamic urban landscape.",
+  "image": "https://raw.githubusercontent.com/0xacme/pandora/main/4.gif",
+  "external_url": "https://jupiteroff.github.io",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    }
+  ]
+}
