@@ -1,0 +1,12 @@
+{
+  "name": "Jupiter #3",
+  "description": "The third NFT in the Jupiter collection, depicting a mystical forest.",
+  "image": "https://raw.githubusercontent.com/0xacme/pandora/main/3.gif",
+  "external_url": "https://jupiteroff.github.io",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    }
+  ]
+}
