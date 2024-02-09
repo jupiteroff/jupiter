@@ -2,7 +2,7 @@
   "name": "Jupiter #1",
   "description": "The first NFT in the Jupiter collection, showcasing a vibrant, animated landscape.",
   "image": "https://jupiteroff.github.io/jupiter/1.gif",
-  "external_url": "https://jupiteroff.github.io",
+  "external_url": "https://jupiteroff.github.io/jupiter",
   "attributes": [
     {
       "trait_type": "Color",
